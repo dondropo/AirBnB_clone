@@ -47,4 +47,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
 
 # Author
-Alejandro Rusca Moreno [GitHub](https://github.com/dondropo) [Twitter](https://twitter.com/don_dropo) [Linkedin](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)
+Alejandro Rusca Moreno [GitHub](https://github.com/dondropo) | [Twitter](https://twitter.com/don_dropo) | [Linkedin](https://www.linkedin.com/in/alejandro-rusca-moreno-59138b1a1/)
